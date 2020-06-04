@@ -1,4 +1,9 @@
-# guesswho
+# JavaScript Guess Who
+### This app demonstrates the following:
+
+* The ability to setup a Vue application
+* Fetching and parsing data from an online API
+* Handling user interaction and praticing game logic
 
 ## Project setup
 ```
